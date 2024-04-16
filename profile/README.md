@@ -1,5 +1,3 @@
-![최종포스터2복사복사](https://github.com/Inha-ICE-Capstone/.github/assets/112371013/0bd92e33-0601-4b48-9ded-30ea39397e15)
-
 ## 팀원 소개
 |Backend, BlockChain & AI|Frontend, UI/UX & AI|
 |:---:|:---:|
@@ -8,3 +6,6 @@
 
 ## Architecture Flow Diagram
 ![Facebook post - 1](https://github.com/seungboshim/seungboshim/assets/112371013/76149ed5-1cd7-40c3-be2d-33cc44e17b81)
+
+## 시연 영상
+[![Video Label](http://img.youtube.com/vi/dkNhR_-Kzaw/0.jpg)](https://www.youtube.com/watch?v=dkNhR_-Kzaw)
